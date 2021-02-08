@@ -2,7 +2,6 @@
 # coding: utf-8
 
 # # function to find whether a number prime or composite.
-# #ASSIGNMENT SUBMITTED BY: ASHUTOSH BISHT (ROLL NO: 2022006 )
 
 # In[1]:
 
